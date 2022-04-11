@@ -1,3 +1,7 @@
+//Adam Gray
+//Code to bubble sort an array of integers
+//from the command line input
+
 #include <stdio.h>
 #include <stdlib.h>
 

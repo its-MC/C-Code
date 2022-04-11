@@ -1,3 +1,6 @@
+//Adam Gray
+//Code to print a rectangle of asterisks
+
 #include <stdio.h>
 #include <stdlib.h>
 
